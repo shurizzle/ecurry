@@ -1,0 +1,1 @@
+{"src/ecurry", [{outdir, "ebin"}]}.
